@@ -8,18 +8,18 @@ pip install yt_dlp
 ```
 
 ## Installation et utilisation
-<h1>Sous Windows</h1>
-<h2>I. Pour les débutants :</h2>
+##Sous Windows
+##I. Pour les débutants :
 <p>Ouvrir le fichier `ARTE_downloader.py` avec spyder.</p>
-<h2>II. Pour les experts :</h2>
+##II. Pour les experts :
 <p>On suppose Python installé. Ouvrir la CMD</p>
 ```bash
 git clone https://github.com/hleong75/ARTE_downloader/
 cd ARTE_downloader
 python ARTE_downloader.py
 ```
-<h1>Sous linux</h1>
-<h2>On suppose pour les experts :</h2>
+##Sous linux
+##On suppose pour les experts :
 <p>Python étant normalement préinstallé</p>
 ```bash
 git clone https://github.com/hleong75/ARTE_downloader/
